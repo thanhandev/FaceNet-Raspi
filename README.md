@@ -1,7 +1,5 @@
 # FaceNet-Raspi
 Facenet On Raspberry Pi4
-    # Clone Repo:
-    git clone https://github.com/pewdspie24/FaceNet-Infer.git
     
     # Install with Pip
     pip install -r requirements.txt
